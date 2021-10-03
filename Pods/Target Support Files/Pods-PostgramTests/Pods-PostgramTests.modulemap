@@ -1,0 +1,6 @@
+framework module Pods_PostgramTests {
+  umbrella header "Pods-PostgramTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
