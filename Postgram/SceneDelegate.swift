@@ -12,7 +12,9 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
 
-    @IBAction func onButtomLogout(_ sender: UIBarButtonItem) {
+ 
+
+    @IBAction func onLogoutButton(_ sender: Any) {
         print("test")
     }
     
